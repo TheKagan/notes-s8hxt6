@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://TheKagan.github.io/notes-s8hxt6/sitemap.xml
